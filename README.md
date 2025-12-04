@@ -86,7 +86,9 @@ I am from an Electronics and Communication background but my interest in technol
 <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-0078D4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qualys VMDR-ea2a2a?&style=for-the-badge&logo=Qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe SOC L1-94d84a?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/-TryHackMe Jr.Penetration Tester-ea2a2a?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/- CISCO Ethical Hacker -0078D4?&style=for-the-badge&logo=CISCO&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/-TryHackMe Jr.Penetration Tester?&style=for-the-badge&logoColor=tryhackme&logoColor=red" /> -->
 <!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
 
@@ -104,6 +106,7 @@ I am from an Electronics and Communication background but my interest in technol
 
 ![smileycookie's Stats](https://github-readme-stats.vercel.app/api?username=smileycookie&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 ![smileycookie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smileycookie&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+
 
 <br/><br/>
 

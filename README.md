@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=smileycookie.smileycookie" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hyphennR.hyphennR" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=MRighteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ripunjay+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=MRighteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+hyphennR;+AKA+Ripunjay+Singh!;" />
 </h1>
 
 # Glad to see you here!  

@@ -8,7 +8,7 @@ I am a cybersecurity enthusiast with a passion for protecting people and organiz
 
 I believe that knowledge is most powerful when shared. Whether it's through collaboration, mentorship, or hands-on problem-solving, I strive to make a meaningful impact in the cybersecurity space. I welcome opportunities to contribute, grow, and work alongside like-minded professionals who share the vision of a safer digital world.
 
-I may not  be different from others out there, but I believe I can create a difference.
+I may not  be different from others out there, but I believe I can make a difference.
 
 Without further ado, let’s get started! 🚀
 
@@ -34,17 +34,20 @@ I am from an Electronics and Communication background but my interest in technol
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |[ SOC Home Lab](https://github.com/smileycookie/SOC_Home_Lab)|
-| Network Traffic Monitoring and Attack Detection |[ SOC Home Lab](https://github.com/smileycookie/SOC_Home_Lab)|
+| SIEM Implementation and Log Analysis          |[ SOC Home Lab](https://github.com/hyphennR/SOC_Home_Lab)|
+| Network Traffic Monitoring and Attack Detection |[ SOC Home Lab](https://github.com/hyphennR/SOC_Home_Lab)|
+| Project_Password_Analyzer          |[Project_Password_Analyzer](https://github.com/hyphennR/Project_Password_Analyzer)|
+| Text_Encryption           |[Text_Encryption ](https://github.com/hyphennR/Text_Encryption )|
+| CyArt-CyberDeck <b>[Internship Project]</b>  |[CyArt-CyberDeck ](https://github.com/hyphennR/CyArt-CyberDeck)|
 
 
 ## Tools
 
 ### Cyber Defence Frameworks
 <div>
-    <img src="https://img.shields.io/badge/-Cyber Kill Chain-1679A7?&style=for-the-badge&logo=Cyber Kill Chain&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Unified Kill Chain-EF3B2D?&style=for-the-badge&logo=Unified Kill Chain&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Diamond Model-777BB4?&style=for-the-badge&logo=Diamond Model&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber Kill Chain-1679A7?&style=for-the-badge&logo=CyberKillChain&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Unified Kill Chain-EF3B2D?&style=for-the-badge&logo=UnifiedKillChain&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Diamond Model-777BB4?&style=for-the-badge&logo=DiamondModel&logoColor=white" />
 </div>
 
 ### Cyber Threat Intelligence
@@ -52,7 +55,7 @@ I am from an Electronics and Communication background but my interest in technol
     <img src="https://img.shields.io/badge/-Yara-1679A7?&style=for-the-badge&logo=Yara&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenCTI-EF3B2D?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
     <img src="https://img.shields.io/badge/-MISP-777BB4?&style=for-the-badge&logo=MISP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE ATT&CK-b84592?&style=for-the-badge&logo=MITRE ATT&CK®&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE ATTACK-b84592?&style=for-the-badge&logo=MITREATTACK&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sigma-DBF227?&style=for-the-badge&logo=Sigma&logoColor=white" />    
 </div>
 
@@ -62,7 +65,7 @@ I am from an Electronics and Communication background but my interest in technol
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Brim-003666?&style=for-the-badge&logo=Brim&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network Miner-8e43e7?&style=for-the-badge&logo=Network Miner&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network Miner-8e43e7?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
 </div>
 
 ### Endpoint Security Monitoring 
@@ -94,18 +97,19 @@ I am from an Electronics and Communication background but my interest in technol
 
 ## Projects
 - SOC Home Lab
+- CyArt-CyberDeck 
 
 <div align="center">
     
 ## Contributions
 
     
-![snake gif](https://github.com/smileycookie/smileycookie/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/hyphennR/hyphennR/blob/output/github-snake-dark.svg)
 
 <h2 align="center"> Stats </h2>
 
-![smileycookie's Stats](https://github-readme-stats.vercel.app/api?username=smileycookie&theme=outrun&show_icons=true&hide_border=true&count_private=true)
-![smileycookie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smileycookie&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+![smileycookie's Stats](https://github-readme-stats.vercel.app/api?username=hyphennR&theme=outrun&show_icons=true&hide_border=true&count_private=true)
+![smileycookie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyphennR&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 
 
 <br/><br/>
